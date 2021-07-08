@@ -24,11 +24,7 @@ class Home extends CI_Controller {
 	
 	public function index()
 	{ 
-		// $data['title']     	   = 'Multifab Application';
-		// $data['modul']     	   = 'Official';
-		// $data['pages']     	   = 'default/home'; 
-		// $this->load->view('home',$data); 
-		redirect('/auth');
+		$this->load->view('home');
 	}
   
  

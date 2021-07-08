@@ -10,6 +10,11 @@
 -- APP NAME   : ACCOUNTING APPS
 -- ---------------------------------------------------------------
 */
+	function view($pages)
+	{
+		$ci     =& get_instance();
+		return $ci->load->view($pages); 
+	}
 	function login()
 	{
 		if (empty(session())){

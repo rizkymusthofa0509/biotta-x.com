@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NMB15L2FXQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NMB15L2FXQ');
+  </script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -49,10 +58,10 @@
                 <a class="nav-link page-scroll" href="#testimonial">Testimonial</a>
               </li>  
               <li class="nav-item">
-                <a class="nav-link page-scroll" href="https://api.whatsapp.com/send?phone=62895367330194&text=Daftar Agen Susu Kambing biotta-x">Daftar Agen</a>
+                <a class="nav-link page-scroll" href="https://api.whatsapp.com/send?phone=6285223992888&text=Daftar Agen Susu Kambing biotta-x">Daftar Agen</a>
               </li> 
               <li class="nav-item">
-                <a class="nav-link page-scroll" href="https://api.whatsapp.com/send?phone=62895367330194&text=Daftar Agen Susu Kambing biotta-x">Contact</a>
+                <a class="nav-link page-scroll" href="https://api.whatsapp.com/send?phone=6285223992888&text=Daftar Agen Susu Kambing biotta-x">Contact</a>
               </li> 
             </ul>
           </div>
@@ -67,7 +76,7 @@
               perkembangan sel otak serta saraf. Tak hanya untuk anak-anak, kandungan dalam susu kambing Biotta-x ini juga bisa
               meningkatkan pertumbuhan sel otak pada janin.</p>
               <div class="header-button">
-                <a href="https://api.whatsapp.com/send?phone=62895367330194&text=Apakah%20stok%20susu%20biotta-x%20masih%20tersedia?" class="btn btn-border-filled">Daftar Agen</a> 
+                <a href="https://api.whatsapp.com/send?phone=6285223992888&text=Apakah%20stok%20susu%20biotta-x%20masih%20tersedia?" class="btn btn-border-filled">Daftar Agen</a> 
               </div>
             </div>
           </div>
@@ -731,9 +740,11 @@
     <!-- Footer Section Start -->
     <footer>
       <!-- Footer Area Start -->
-      <section class="footer-Content">
+      
+      <section class="footer-Content"> 
         <div class="container">
           <div class="row">
+            
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <h1 style="color:white;">BIOTTA-X</h1>
               <div class="textwidget">
@@ -801,7 +812,17 @@
       
     </footer>
     <!-- Footer Section End --> 
-
+  
+<div style="overflow:auto; z-index: 999;
+  position: absolute; width:100%; bottom:0px;">
+    <div class="float-button-wrapper">
+        <div   style="position: fixed;    left: 10px; bottom: 10px;">
+            <a target="_blank" href="https://api.whatsapp.com/send?phone=6282315564450&text=Daftar Agen Susu Kambing biotta-x">
+                <img src="assets/images/wame.png" title="Contact Me" style="width:150px;" >
+            </a>
+        </div>
+    </div>
+</div> 
     <!-- Go To Top Link -->
     <a href="#" class="back-to-top">
       <i class="lni-chevron-up"></i>

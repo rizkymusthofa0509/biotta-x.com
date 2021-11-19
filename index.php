@@ -1,3 +1,4 @@
+<?php include 'function.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,7 +8,7 @@
     <meta name="keywords" content="Bootstrap, Landing page, Template, Registration, Landing">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
-    <title>Proton - Bootstrap 4 Template</title>
+    <title>Susu Kambing Biotta-x </title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -29,7 +30,7 @@
       <div class="overlay"></div>
       <nav class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar">
         <div class="container">
-          <a href="index.html" class="navbar-brand"><img src="img/logo.png" alt=""></a>  
+          <a href="#" class="navbar-brand">BIOTTA-X</a>  
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="lni-menu"></i>
           </button>
@@ -39,22 +40,16 @@
                 <a class="nav-link page-scroll" href="#home">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link page-scroll" href="#app-features">Features</a>
-              </li>  
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#screenshots">Screenshots</a>
-              </li>                            
+                <a class="nav-link page-scroll" href="#app-features">Manfaat</a>
+              </li>                              
               <li class="nav-item">
                 <a class="nav-link page-scroll" href="#testimonial">Testimonial</a>
-              </li> 
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#pricing">Plans</a>
               </li>  
               <li class="nav-item">
-                <a class="nav-link page-scroll" href="#download">Download</a>
+                <a class="nav-link page-scroll" href="https://api.whatsapp.com/send?phone=62895367330194&text=Daftar Agen Susu Kambing biotta-x">Daftar Agen</a>
               </li> 
               <li class="nav-item">
-                <a class="nav-link page-scroll" href="#map-area">Contact</a>
+                <a class="nav-link page-scroll" href="https://api.whatsapp.com/send?phone=62895367330194&text=Daftar Agen Susu Kambing biotta-x">Contact</a>
               </li> 
             </ul>
           </div>
@@ -64,17 +59,18 @@
         <div class="row space-100">
           <div class="col-lg-7 col-md-12 col-xs-12">
             <div class="contents">
-              <h2 class="head-title">Get Your App Landing Page <br> With Proton Template</h2>
-              <p>lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse unde blanditiis nostrum mollitia aliquam sed. Numquam ipsum unde repellendus similique autem non ab quibusdam enim provident distinctio! Fugit tenetur, iusto.</p>
+              <h2 class="head-title">Susu Kambing <br> Biotta-x</h2>
+              <p>Susu kambing Biotta-x mengandung Riboflavin (vitamin B2) dan vitamin B3 yang dipercaya dapat membantu pertumbuhan dan
+              perkembangan sel otak serta saraf. Tak hanya untuk anak-anak, kandungan dalam susu kambing Biotta-x ini juga bisa
+              meningkatkan pertumbuhan sel otak pada janin.</p>
               <div class="header-button">
-                <a href="#" class="btn btn-border-filled">Learn More</a>
-                <a href="#" class="btn btn-border">Get Started</a>
+                <a href="https://api.whatsapp.com/send?phone=62895367330194&text=Apakah%20stok%20susu%20biotta-x%20masih%20tersedia?" class="btn btn-border-filled">Daftar Agen</a> 
               </div>
             </div>
           </div>
           <div class="col-lg-5 col-md-12 col-xs-12">
             <div class="intro-img">
-              <img src="img/intro-mobile.png" alt="">
+              <img src="assets/images/bg.svg" alt="">
             </div>            
           </div>
         </div> 
@@ -86,55 +82,57 @@
     <div id="app-features" class="section">
       <div class="container">
         <div class="section-header">   
-          <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">features</p>       
-          <h2 class="section-title wow fadeIn" data-wow-delay="0.2s">Amazing Features</h2>
+          <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Manfaat</p>       
+          <h2 class="section-title wow fadeIn" data-wow-delay="0.2s">Susu Kambing Biotta-x</h2>
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-12 col-xs-12">
             <div class="content-left text-right">
               <div class="box-item left">
                 <span class="icon">
-                  <i class="lni-leaf"></i>
+                  <i class="lni-star-filled"></i>
                 </span>
                 <div class="text">
-                  <h4>User Friendly</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing typesting industry text.</p>
+                  <h4>Mengatasi infeksi bakteri</h4>
+                  <p>Konsentrasi susu sebanyak 60-80 persen dapat menghambat pertumbuhan bakteri
+                  resisten.</p>
                 </div>
               </div>
               <div class="box-item left">
                 <span class="icon">
-                  <i class="lni-dashboard"></i>
+                  <i class="lni-star-filled"></i>
                 </span>
                 <div class="text">
-                  <h4>Super Fast Speed</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing typesting industry text.</p>
+                  <h4>Menjaga kesehatan tulang</h4>
+                  <p>Sama seperti susu sapi, susu kambing etawa juga diperkaya kalsium..</p>
                 </div>
               </div>
               <div class="box-item left">
                 <span class="icon">
-                  <i class="lni-headphone-alt"></i>
+                  <i class="lni-star-filled"></i>
                 </span>
                 <div class="text">
-                  <h4>24/7 Support</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing typesting industry text.</p>
+                  <h4>Membantu penyerapan nutrisi</h4>
+                  <p>Mineral yang terkandung dalam susu kambing lebih mudah diserap oleh tubuh dibandingkan susu sapi.</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-12 col-xs-12">
             <div class="show-box">
-              <img src="img/features/app.png" alt="">
+              <img src="assets/images/biotta-x.jpeg" alt="">
             </div>
           </div>
           <div class="col-lg-4 col-md-12 col-xs-12">
             <div class="content-right text-left">
               <div class="box-item right">
                 <span class="icon">
-                  <i class="lni-shield"></i>
+                  <i class="lni-star-filled"></i>
                 </span>
                 <div class="text">
-                  <h4>Secure</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing typesting industry text.</p>
+                  <h4>Meningkatkan suplai oksigen.</h4>
+                  <p>Kandungan fosfor pada susu kambing etawa membuat susu ini berpotensi membantu peredarah darah di dalam tubuh menjadi
+                  lebih lancar.</p>
                 </div>
               </div>
               <div class="box-item right">
@@ -142,17 +140,17 @@
                   <i class="lni-star-filled"></i>
                 </span>
                 <div class="text">
-                  <h4>Awesome Rating</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing typesting industry text.</p>
+                  <h4>Merawat sistem saraf</h4>
+                  <p>Kembali ke kandungan kalsium pada susu kambing Biotta-x.</p>
                 </div>
               </div>
               <div class="box-item right">
                 <span class="icon">
-                  <i class="lni-cup"></i>
+                  <<i class="lni-star-filled"></i>
                 </span>
                 <div class="text">
-                  <h4>Award Winning</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing typesting industry text.</p>
+                  <h4>Merawat fungsi jantung</h4>
+                  <p>Merawat kesehatan dan fungsi jantung. Jantung adalah organ tubuh yang memiliki peran vital dalam keberlangsungan hidup.</p>
                 </div>
               </div>
             </div>
@@ -168,9 +166,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 col-sm-12">
-              <div class="video-promo-content text-center">
+              <!-- <div class="video-promo-content text-center">
                 <a href="https://www.youtube.com/watch?v=yP6kdOZHids" class="video-popup"><i class="lni-film-play"></i></a>
                 <h2 class="mt-3 wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Watch Video</h2>
+              </div> -->
+              <div class="video-promo-content text-center">
+                <h3></h3>
+                <h2 class="mt-3 wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Dapatkan Harga terbaik dan manfaat lebih banyak <br> Daftar Menjadi Agen</h2>
               </div>
           </div>
         </div>
@@ -184,16 +186,17 @@
         <div class="row">
           <div class="col-lg-6 col-md-12 col-sm-12">
             <div class="img-thumb wow fadeInLeft" data-wow-delay="0.3s">
-              <img class="img-fluid" src="img/features/img1.png" alt="">
+              <img class="img-fluid" src="assets/images/bisnis biotta-x.svg" alt="">
             </div>
           </div>
           <div class="col-lg-6 col-md-12 col-sm-12">
             <div class="text-wrapper wow fadeInRight" data-wow-delay="0.6s">
               <div>
-                <p class="btn btn-subtitle">How It Works?</p>  
-                <h3>Our App Is Amazing!</h3>
-                <p>Appropriately implement one-to-one catalysts for change vis-a-vis wireless catalysts for change. Enthusiastically architect adaptive e-tailers after sustainable total linkage.</p>
-                <a class="btn btn-rm" href="#">Read More <i class="lni-arrow-right"></i></a>
+                <p class="btn btn-subtitle">Manfaat menjadi Agen ?</p>  
+                <h3>Manfaatkan kesempatan menjadi agen!</h3>
+                <p>Mencari pendampingan. Buat kita yang baru akan memulai usaha, penting bagi kita untuk mendapatkan pendampingan dan
+                pelatihan untuk bisa mengembangkan bisnis kita. dalam Ke agenan Biotta-x akan diajarkan bagaimana memulai bisnis online.</p>
+                <a class="btn btn-rm" href="#">Daftar Sekarang <i class="lni-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -202,16 +205,16 @@
           <div class="col-lg-6 col-md-12 col-sm-12">
             <div class="text-wrapper wow fadeInRight" data-wow-delay="0.9s">
               <div>
-                <p class="btn btn-subtitle">Update</p>  
-                <h3>Free Updates!</h3>
-                <p>Appropriately implement one-to-one catalysts for change vis-a-vis wireless catalysts for change. Enthusiastically architect adaptive e-tailers after sustainable total linkage.</p>
+                <p class="btn btn-subtitle">Sitem manajemen yang baik.</p>  
+                <h3>Memanfaatkan Digital System</h3>
+                <p>Memahami betul kekuatan Anda sebelum merencanakan bisnis, Kenali Peluang Bisnis Digital Terbaik. Digital marketing nampaknya memang strategi yang jitu untuk mengembangkan sebuah usaha kecil menjadi lebih besar.</p>
                 <a class="btn btn-rm" href="#">Read More <i class="lni-arrow-right"></i></a>
               </div>
             </div>
           </div>
            <div class="col-lg-6 col-md-12 col-sm-12">
             <div class="img-thumb wow fadeInLeft" data-wow-delay="1.2s">
-              <img class="img-fluid" src="img/features/img2.png" alt="">
+              <img class="img-fluid" src="assets/images/bisnis biotta-x-man.svg" alt="">
             </div>
           </div>
         </div>
@@ -220,7 +223,7 @@
     <!-- Features Section End -->   
 
     <!-- Awesome Screens Section Start -->
-    <section id="screenshots" class="screens-shot section">
+    <!-- <section id="screenshots" class="screens-shot section">
       <div class="container">
         <div class="section-header">   
           <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Screenshots</p>       
@@ -261,11 +264,11 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- Awesome Screens Section End -->  
 
     <!-- Team section Start -->
-    <section id="team" class="section">
+    <!-- <section id="team" class="section">
       <div class="container">
         <div class="section-header">   
           <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Team</p>       
@@ -350,11 +353,11 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- Team section End -->
 
     <!-- Testimonial Section Start -->
-    <section id="testimonial" class="section">
+    <!-- <section id="testimonial" class="section">
       <div class="container">
         <div class="section-header">   
           <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Reviews</p>       
@@ -447,14 +450,12 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- Testimonial Section End -->  
 
     <!-- Clients Section -->
-    <div id="clients" class="section">
-      <!-- Container Ends -->
-      <div class="container">
-        <!-- Row and Scroller Wrapper Starts -->
+    <!-- <div id="clients" class="section"> 
+      <div class="container"> 
         <div class="row" id="clients-scroller">
           <div class="client-item-wrapper">
             <img src="img/clients/img1.png" alt="">
@@ -473,7 +474,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Client Section End --> 
 
     <!-- Subcribe Section Start -->
@@ -506,7 +507,7 @@
     <!-- Subcribe Section End -->
 
     <!-- Start Pricing Table Section -->
-    <div id="pricing" class="section pricing-section">
+    <!-- <div id="pricing" class="section pricing-section">
       <div class="container">
         <div class="section-header">   
           <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Pricing</p>       
@@ -585,11 +586,11 @@
 
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- End Pricing Table Section -->
 
     <!-- download Section Start -->
-    <section id="download">
+    <!-- <section id="download">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 col-md-6 col-xs-12">            
@@ -611,83 +612,48 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- download Section Start -->
 
     <!-- Blog Section -->
-    <section id="blog" class="section">
-      <!-- Container Starts -->
+    <section id="blog" class="section"> 
       <div class="container">
          <div class="section-header">   
-          <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Blog</p>       
-          <h2 class="section-title">Recent News</h2>
+          <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Informasi Terkini</p>       
+          <h2 class="section-title">Berita Terbaru</h2>
         </div>
         <div class="row">
-          <div class="col-lg-4 col-md-6 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
-            <div class="blog-item-wrapper">
-              <div class="blog-item-img">
-                <a href="single-post.html">
-                  <img src="img/blog/img1.jpg" alt="">
-                </a>   
-                <div class="author-img">
-                  <img src="img/blog/author.png" alt="">
-                </div>             
-              </div>
-              <div class="blog-item-text"> 
-                <h3><a href="single-post.html">How Proton Will Transform Your Business</a></h3>
-                <div class="author">
-                  <span class="name"><a href="#">Posted by Admin</a></span>
-                  <span class="date float-right">10 April, 2020</span>
+          <?php
+          $get = json_decode(CurlGet('https://api.muridigital.com/berita.php'));  
+          $no = 1;
+            foreach ($get->body as $berita){
+              if (($no<=6) && ($berita->gambar!='')){ 
+              ?> 
+                <div class="col-lg-4 col-md-6 col-xs-12 blog-item">
+                <!-- Blog Item Starts -->
+                <div class="blog-item-wrapper">
+                  <div class="blog-item-img">
+                    <a target="_blank" href="https://muridigital.com/remaja-islam/<?= $berita->judul_seo ?>">
+                      <img src="<?= $berita->gambar ?>" alt=""  width="360px;" height="230px;">
+                    </a>             
+                  </div>
+                  <div class="blog-item-text"> 
+                    <h3><a target="_blank" href="https://muridigital.com/remaja-islam/<?= $berita->judul_seo ?>" style=""><?= substr($berita->judul,0,25) ?>...</a></h3>
+                    <div class="author">
+                      <span class="name"><a href="#">Posted by Remaja Islam</a></span>
+                      <span class="date float-right"><?= $berita->created_at ?></span>
+                    </div>
+                  </div>
                 </div>
+                <!-- Blog Item Wrapper Ends-->
               </div>
-            </div>
-            <!-- Blog Item Wrapper Ends-->
-          </div>
-
-          <div class="col-lg-4 col-md-6 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
-            <div class="blog-item-wrapper">
-              <div class="blog-item-img">
-                <a href="single-post.html">
-                  <img src="img/blog/img2.jpg" alt="">
-                </a>   
-                <div class="author-img">
-                  <img src="img/blog/author.png" alt="">
-                </div>             
-              </div>
-              <div class="blog-item-text"> 
-                <h3><a href="single-post.html">20 Growth Hacking Tips from Experts</a></h3>
-                <div class="author">
-                  <span class="name"><a href="#">Posted by Admin</a></span>
-                  <span class="date float-right">10 April, 2020</span>
-                </div>
-              </div>
-            </div>
-            <!-- Blog Item Wrapper Ends-->
-          </div>
-
-          <div class="col-lg-4 col-md-6 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
-            <div class="blog-item-wrapper">
-              <div class="blog-item-img">
-                <a href="single-post.html">
-                  <img src="img/blog/img3.jpg" alt="">
-                </a>   
-                <div class="author-img">
-                  <img src="img/blog/author.png" alt="">
-                </div>             
-              </div>
-              <div class="blog-item-text"> 
-                <h3><a href="single-post.html">Proton Has Been Launched, Get Started!</a></h3>
-                <div class="author">
-                  <span class="name"><a href="#">Posted by Admin</a></span>
-                  <span class="date float-right">10 April, 2020</span>
-                </div>
-              </div>
-            </div>
-            <!-- Blog Item Wrapper Ends-->
-          </div>
+              <?php
+              }
+              $no++;
+            }
+          ?>
+          
+          
         </div>
       </div>
     </section>
@@ -698,7 +664,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-12 padding-0">
-            <object style="border:0; height: 450px; width: 100%;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34015.943594576835!2d-106.43242624069771!3d31.677719472407432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e75d90e99d597b%3A0x6cd3eb9a9fcd23f1!2sCourtyard+by+Marriott+Ciudad+Juarez!5e0!3m2!1sen!2sbd!4v1533791187584"></object>
+            <object style="border:0; height: 450px; width: 100%;" data="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15863.339819688257!2d106.8182511!3d-6.2854145!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x33a8da6518878431!2sMURI%20DIGITAL!5e0!3m2!1sid!2sid!4v1637328647943!5m2!1sid!2sid"></object>
           </div>
         </div>
       </div>
@@ -714,8 +680,8 @@
               <div class="col-lg-12 col-md-12 col-xs-12">
                 <div class="contact-block wow fadeInUp" data-wow-delay="0.2s">
                   <div class="section-header">   
-                    <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Contact</p>       
-                    <h2 class="section-title">Love to Hear From You</h2>
+                    <p class="btn btn-subtitle wow fadeInDown" data-wow-delay="0.2s">Kontak</p>       
+                    <h2 class="section-title">Tinggalkan Komentar anda</h2>
                   </div>
                   <form id="contactForm">
                     <div class="row">
@@ -766,19 +732,19 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <img src="img/logo.png" alt="">
+              <h1 style="color:white;">BIOTTA-X</h1>
               <div class="textwidget">
-                <p>Appropriately implement one-to-one catalysts for change vis-a-vis wireless catalysts for change. Enthusiastically architect adaptive.</p>
+                <p>Jl. Ampera Raya No.8, RT.8/RW.2, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560.</p>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="widget">
-                <h3 class="block-title">Create a Free Account</h3>
+                <h3 class="block-title">Daftar Menjadi Agen</h3>
                 <ul class="menu">
-                  <li><a href="#">Sign In</a></li>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Pricing</a></li>
-                  <li><a href="#">Jobs</a></li>
+                  <li><a href="#">Login</a></li>
+                  <li><a href="#">Tentang</a></li>
+                  <li><a href="#">Harga</a></li>
+                  <li><a href="#">Career</a></li>
                 </ul>
               </div>
             </div>
@@ -812,7 +778,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="site-info float-left">
-                  <p>&copy; 2020 - Designed by <a href="http://uideck.com" rel="nofollow">UIdeck</a></p>
+                  <p>&copy; 2021 - Designed by <a href="https://muridigital.com" rel="nofollow">Muri Digital</a></p>
                 </div>              
                 <div class="float-right">  
                   <ul class="footer-social">

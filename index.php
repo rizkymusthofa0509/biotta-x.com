@@ -8,7 +8,10 @@
     <meta name="keywords" content="Bootstrap, Landing page, Template, Registration, Landing">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
-    <title>Susu Kambing Biotta-x </title>
+    <title>Susu Kambing Biotta-x </title> 
+    <meta content="Susu kambing kaya juga kaya akan kalsium, asam lemak baik, dan menjadi antioksidan yang baik bagi tubuh." name="description">
+    <meta content="Susu kambing Biotta, Biotta-x, Susu Sehat, Susu Kambing Sehat" name="keywords">
+
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
